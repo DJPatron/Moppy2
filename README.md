@@ -1,8 +1,5 @@
-# Moppy2-Arduino
-Device implementation for Moppy2 for microcontrollers that support the Arduino **framework**.  Currently, the following boards are officially supported:
-- **Arduino [Uno\*]** (via the Arduino IDE or PlatformIO)
-- **ESP8266** (via PlatformIO)
+# Moppy2-UNOR3
+Device implementation for Moppy2 for microcontrollers that support the Arduino **framework**.  This one is ready for **Arduino Uno R3** (via the Arduino IDE) and 8 FDD.
 
-\* Most "Arduino" boards are extremely similar and should work fine, though if you're using PlatformIO you may need to modify `platformio.ini` to match your board-type.
 
 Original repo: https://github.com/Sammy1Am/Moppy2
