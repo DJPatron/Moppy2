@@ -4,3 +4,5 @@ Device implementation for Moppy2 for microcontrollers that support the Arduino *
 - **ESP8266** (via PlatformIO)
 
 \* Most "Arduino" boards are extremely similar and should work fine, though if you're using PlatformIO you may need to modify `platformio.ini` to match your board-type.
+
+Original repo: https://github.com/Sammy1Am/Moppy2
